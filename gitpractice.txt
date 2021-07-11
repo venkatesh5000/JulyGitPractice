@@ -1,2 +1,6 @@
 I am parent
 parent changes
+=======
+I am child
+child changes
+
